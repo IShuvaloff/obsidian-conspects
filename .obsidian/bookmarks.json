@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1699186501235,
+      "path": "Nuxt.js/ПОЛЕЗНЫЕ ДАННЫЕ.md",
+      "subpath": "#^6c6567",
+      "title": "Алиасы Nuxt.js"
+    },
+    {
+      "type": "file",
+      "ctime": 1699276590931,
+      "path": "Nuxt.js/Конфигурация проекта.md",
+      "subpath": "#^0b9bbb",
+      "title": "Серверный/статический рендеринг"
+    },
+    {
+      "type": "file",
+      "ctime": 1699719817654,
+      "path": "Nuxt.js/Конфигурация проекта.md",
+      "subpath": "#Файлы настроек проекта"
+    },
+    {
+      "type": "file",
+      "ctime": 1700035623503,
+      "path": "GROM-IT SOFT/Проект Завидово (Nuxt 3)/API базы данных (админка).md",
+      "subpath": "#^1a15a2",
+      "title": "api страницы данных в админке"
+    },
+    {
+      "type": "file",
+      "ctime": 1700250456451,
+      "path": "Nuxt.js/Композаблы Nuxt.js (composables).md",
+      "subpath": "#^0704a2"
+    },
+    {
+      "type": "file",
+      "ctime": 1716573995755,
+      "path": "Nuxt.js/Промежуточное ПО (middleware) TODO!.md",
+      "subpath": "#Сохранение позиций Y на странице и плавный переход к ним при маршрутизации"
+    },
+    {
+      "type": "file",
+      "ctime": 1770650696820,
+      "path": "PHP/Laravel/9. Моделирование.md",
+      "subpath": "#Общее устройство и модели"
+    },
+    {
+      "type": "file",
+      "ctime": 1776248108849,
+      "path": "Nuxt.js/THEORY/Архитектура API.md",
+      "subpath": "#Плагин для создания"
+    }
+  ]
+}

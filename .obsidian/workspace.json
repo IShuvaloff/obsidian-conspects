@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "5d9508d9469b1f0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "16e370f29a8a2894",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "182d7fb15609c84b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nuxt.js/THEORY/Переменные окружения.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Переменные окружения"
+            }
+          },
+          {
+            "id": "cdcb2d20073875ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nuxt.js/THEORY/ПЛАНЫ ИЗУЧЕНИЯ.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ПЛАНЫ ИЗУЧЕНИЯ"
+            }
+          },
+          {
+            "id": "1460eb0a01449546",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GROM-IT SOFT/Пароли.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Пароли"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38abd56e9a409cb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f795d080383e9544",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "273c6e73e09da73d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "6e94aec35ba1eded",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "TTL",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "dab26f6789025524",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287.5
+  },
+  "right": {
+    "id": "0cd512e0e7f5cf0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbf14f253e770e7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fe66bb29aa6cc47",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CSS-стилизация/Постпроцессор PostCSS/Особенности.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Особенности"
+            }
+          },
+          {
+            "id": "3206eb3b94b46b26",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GROM-IT SOFT/Пароли.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Пароли"
+            }
+          },
+          {
+            "id": "1c6f663f53a75f53",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "a26e7ad19a1bc2ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GROM-IT SOFT/Пароли.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "1460eb0a01449546",
+  "lastOpenFiles": [
+    "ENGLISH/AI speaking 4.md",
+    "Nuxt.js/THEORY/Жизненный цикл компонентов Vue 3 и Nuxt 3.md",
+    "Nuxt.js/THEORY/ПЛАНЫ ИЗУЧЕНИЯ.md",
+    "ENGLISH/AI speaking 3.md",
+    "ENGLISH/AI speaking 2.md",
+    "ENGLISH/AI speaking 1.md",
+    "ENGLISH/AI speaking focus 1.md",
+    "Nuxt.js/THEORY/DevOps.md",
+    "Nuxt.js/THEORY/Прокидывание пропсов (Provide-Inject).md",
+    "Nuxt.js/THEORY/Архитектура API.md",
+    "Nuxt.js/THEORY/Архитектура Fullstack.md",
+    "Nuxt.js/THEORY/Переменные окружения.md",
+    "Nuxt.js/THEORY/Замыкания (Closures).md",
+    "Nuxt.js/THEORY/Композаблы.md",
+    "Nuxt.js/THEORY/Паттерны проектирования/Dependency Injection.md",
+    "Nuxt.js/THEORY/Паттерны проектирования/Decorator.md",
+    "Nuxt.js/THEORY/Авторизация.md",
+    "Nuxt.js/THEORY/Теория реактивности.md",
+    "Nuxt.js/THEORY/Computed-свойства.md",
+    "Файлы/Pasted image 20260807212233.png",
+    "Файлы/Pasted image 20260807211526.png",
+    "Файлы/Pasted image 20260807211416.png",
+    "Nuxt.js/Композаблы Nuxt.js (composables).md",
+    "Nuxt.js/Архитектура проекта.md",
+    "GROM-IT SOFT/Проект ZGK Автоматизация производства/Архитектура.md",
+    "Nuxt.js/THEORY/Принципы проектирования/SOLID.md",
+    "Nuxt.js/THEORY/Рендеринг.md",
+    "Nuxt.js/THEORY/Watch и WatchEffect.md",
+    "Nuxt.js/THEORY/Жизненный цикл приложения.md",
+    "ENGLISH",
+    "Nuxt.js/THEORY/Принципы проектирования",
+    "Nuxt.js/THEORY/Паттерны проектирования",
+    "Без названия.base",
+    "Nuxt.js/THEORY/TypeScript",
+    "Файлы/Pasted image 20260415141857.png",
+    "Без названия.canvas",
+    "Без названия 1.base",
+    "Без названия 2.base",
+    "Файлы/Pasted image 20260522145445.png",
+    "Nuxt.js/INTERVIEWs",
+    "Nuxt.js/THEORY",
+    "Файлы/Pasted image 20260415131916.png",
+    "Файлы/Pasted image 20260415130504.png",
+    "Файлы/Pasted image 20260415124917.png",
+    "Файлы/Pasted image 20260415123301.png",
+    "Файлы/Pasted image 20260415123234.png",
+    "GROM-IT SOFT/Проект Завидово (бэкенд)"
+  ]
+}

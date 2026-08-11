@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "5d9508d9469b1f0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f09184456820192",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61436bf94df2e838",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nuxt.js/Композаблы Nuxt.js (composables).md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0af94c9b001ac63c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GROM-IT SOFT/Проект Завидово (Nuxt 3)/Загрузка с Promise.all.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38abd56e9a409cb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f795d080383e9544",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "273c6e73e09da73d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e94aec35ba1eded",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "useRoute",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dab26f6789025524",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 399.5
+  },
+  "right": {
+    "id": "0cd512e0e7f5cf0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbf14f253e770e7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fe66bb29aa6cc47",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Nuxt.js/Композаблы Nuxt.js (composables).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3206eb3b94b46b26",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Nuxt.js/Композаблы Nuxt.js (composables).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c6f663f53a75f53",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "a26e7ad19a1bc2ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Nuxt.js/Композаблы Nuxt.js (composables).md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "61436bf94df2e838",
+  "lastOpenFiles": [
+    "Nuxt.js/Страницы (pages).md",
+    "Nuxt.js/Композаблы Nuxt.js (composables).md",
+    "Nuxt.js/Утилиты Nuxt.js (utils).md",
+    "Nuxt.js/Архитектура проекта.md",
+    "Nuxt.js/ПОЛЕЗНЫЕ ДАННЫЕ.md",
+    "Nuxt.js/Модули (modules).md",
+    "Nuxt.js/Вложения (public и assets).md",
+    "Nuxt.js/Конфигурация проекта.md",
+    "Git/Слияние веток.md",
+    "Файлы/Pasted image 20240405114740.png",
+    "Файлы/Pasted image 20240405114643.png",
+    "Файлы/Pasted image 20240405114425.png",
+    "Файлы/Pasted image 20240405114219.png",
+    "Nuxt.js/Установка favicon.md",
+    "CSS-стилизация/Запрет для выделений и перемещений.md",
+    "CSS-стилизация/Фоны и фильтры элементов.md",
+    "Nuxt.js/SEO-оптимизация.md",
+    "JavaScript/Локальные хранилища.md",
+    "PHP/Шаблонизатор Twig/Базовый синтаксис.md",
+    "Теория программирования/Логика и реализация.md",
+    "CSS-стилизация/Символы.md",
+    "CSS-стилизация/Работа с таблицами.md",
+    "JavaScript/Отображение первого кадра видео.md",
+    "GROM-IT SOFT/Проект Завидово (Nuxt 3)/Загрузка с Promise.all.md",
+    "Файлы/Pasted image 20240328155617.png",
+    "CSS-стилизация/Настройки скролла контейнера.md",
+    "CSS-стилизация/Работа с изображениями.md",
+    "Git/Клонирование репозитория.md",
+    "CSS-стилизация/Работа с скриптом SVG.md",
+    "Файлы/Pasted image 20240322164804.png",
+    "GROM-IT SOFT/Проект Offprice (Laragon + October 2)/Структура проекта.md",
+    "Файлы/Pasted image 20240321084735.png",
+    "CSS-стилизация/Яндекс-метрика.md",
+    "Файлы/Pasted image 20240320214442.png",
+    "Файлы/Pasted image 20240320213650.png",
+    "Файлы/Pasted image 20240311112441.png",
+    "GROM-IT SOFT/Проект Offprice (Laragon + October 2)",
+    "GROM-IT SOFT/Проект Offprice-Collab (Nuxt 2)",
+    "Файлы/scroll-animate-to.js",
+    "CSS-стилизация/Постпроцессор PostCSS",
+    "Figma",
+    "CSS-стилизация/Библиотека Tailwind",
+    "Git",
+    "JavaScript",
+    "desktop.ini",
+    "GROM-IT SOFT/Проект Завидово (Nuxt 3)"
+  ]
+}
