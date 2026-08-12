@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nuxt.js/THEORY/JS Runtime Fundamentals.md",
+                "file": "Nuxt.js/THEORY/JS this.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "JS Runtime Fundamentals"
+              "title": "JS this"
             }
           }
         ],
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nuxt.js/THEORY/JS Runtime Fundamentals.md",
+                "file": "Nuxt.js/THEORY/JS this.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -200,9 +200,10 @@
   },
   "active": "1460eb0a01449546",
   "lastOpenFiles": [
+    "Nuxt.js/THEORY/JS Runtime Fundamentals.md",
+    "Nuxt.js/THEORY/JS this.md",
     "Файлы/Pasted image 20260812093319.png",
     "GROM-IT SOFT/Пароли.md",
-    "Nuxt.js/THEORY/JS Runtime Fundamentals.md",
     "Nuxt.js/THEORY/Теория реактивности.md",
     "Nuxt.js/THEORY/Прокидывание пропсов (Provide-Inject).md",
     "Nuxt.js/THEORY/Рендеринг.md",
@@ -245,7 +246,6 @@
     "Файлы/Pasted image 20260415130504.png",
     "Файлы/Pasted image 20260415124917.png",
     "Файлы/Pasted image 20260415123301.png",
-    "Файлы/Pasted image 20260415123234.png",
     "GROM-IT SOFT/Проект Завидово (бэкенд)"
   ]
 }
