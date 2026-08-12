@@ -26,6 +26,8 @@ EXECUTION PHASE
 код сверху вниз
 ```
 
+![[Pasted image 20260812093319.png]]
+
 ---
 
 ## 2. Hoisting — мгновенная таблица
@@ -82,7 +84,7 @@ foo в TDZ
 
 ---
 
-## 4. TDZ
+## 4. TDZ (Temporal Dead Zone)
 
 ```
 начало scope
@@ -91,7 +93,7 @@ binding уже существует
     ↓
 let / const НЕ initialized
     ↓
-████████ TDZ ████████
+████████ TDZ (до момента декларации) ████████
     ↓
 let x = ...
 const x = ...
@@ -125,7 +127,7 @@ STOP
 
 ---
 
-## 6. CALL STACK vs LEXICAL SCOPE
+## 6. CALL STACK vs LEXICAL SCOPE (лекс./стат. обл. видимости)
 
 ### САМАЯ ВАЖНАЯ СХЕМА
 
@@ -156,7 +158,7 @@ function create() {
   }
 }
 
-const show = create()
+const show = create() 
 
 function run() {
   const value = 'run'
@@ -168,6 +170,16 @@ run()
 
 ### Call Stack
 
+> [!TIP]- Формирование Call Stack
+> 1. `global` стартует - **добавлен в Call Stack**
+> 2. вызывается `create()` - **добавляется в Call Stack**
+> 3. `create()` возвращает функцию `show`
+> 4. `create()` ЗАВЕРШАЕТСЯ, ==**удаляется из Call Stack**==! 
+> 5. переменная `show` теперь хранит возвращённую функцию 
+> 6. вызывается `run()` - **добавляется в Call Stack**
+> 7. внутри `run()`  вызывается `show()` - **добавляется в Call Stack**
+> 8. дальше аналогично по завершении каждой функции она удаляется из Call Stack по методу LIFO
+
 ```
 show
  ↓
@@ -177,6 +189,17 @@ global
 ```
 
 ### Lexical Scope
+
+> [!TIP]- Почему из Lexical Scope выпал `run`
+> 1. потому что `show` не был объявлен внутри `run`
+> 2. где физически написана функция `show`:
+>    ```
+>    global
+>    ├── create
+>    │    └── show
+>    └── run
+>    ```
+> 3. `run` и `create` - соседи, `show` - ребенок `create`, `run` выпал из цепочки
 
 ```
 show
@@ -304,13 +327,29 @@ inner function
 5. Если ищешь переменную:
    current lexical env
       ↓
-   outer
+   outer 1
       ↓
-   outer
+   ...outers
+      ↓
+   outer N
       ↓
    global
       ↓
-   ReferenceError
+   null
+```
+
+###  Результат поиска
+
+```
+нашли binding?
+   ├─ да → используем его и STOP
+   └─ нет → идём в [[OuterEnv]]
+                 ↓
+              повторяем
+                 ↓
+        дошли до null и не нашли
+                 ↓
+            ReferenceError
 ```
 
 ---

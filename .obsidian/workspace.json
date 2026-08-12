@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nuxt.js/THEORY/JS Runtime Fundumentals.md",
-                "mode": "source",
+                "file": "Nuxt.js/THEORY/JS Runtime Fundamentals.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "JS Runtime Fundumentals"
+              "title": "JS Runtime Fundamentals"
             }
           }
         ],
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nuxt.js/THEORY/JS Runtime Fundumentals.md",
+                "file": "Nuxt.js/THEORY/JS Runtime Fundamentals.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -200,8 +200,9 @@
   },
   "active": "1460eb0a01449546",
   "lastOpenFiles": [
+    "Файлы/Pasted image 20260812093319.png",
     "GROM-IT SOFT/Пароли.md",
-    "Nuxt.js/THEORY/JS Runtime Fundumentals.md",
+    "Nuxt.js/THEORY/JS Runtime Fundamentals.md",
     "Nuxt.js/THEORY/Теория реактивности.md",
     "Nuxt.js/THEORY/Прокидывание пропсов (Provide-Inject).md",
     "Nuxt.js/THEORY/Рендеринг.md",
@@ -225,7 +226,6 @@
     "ENGLISH/AI speaking 3.md",
     "ENGLISH/AI speaking 2.md",
     "ENGLISH/AI speaking 1.md",
-    "ENGLISH/AI speaking focus 1.md",
     "Файлы/Pasted image 20260807212233.png",
     "Файлы/Pasted image 20260807211526.png",
     "Файлы/Pasted image 20260807211416.png",
