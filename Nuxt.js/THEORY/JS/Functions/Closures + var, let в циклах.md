@@ -300,3 +300,161 @@ Lexical Chain
 Call Stack
 → зависит от того, КТО КОГО ВЫЗВАЛ
 ```
+
+---
+
+## Дополнение: функция, closure и время жизни окружения
+
+### Closure сохраняет доступ к binding, а не копирует значение
+
+```js
+function create() {
+  let value = 10
+
+  return {
+    get() {
+      return value
+    },
+
+    set(newValue) {
+      value = newValue
+    }
+  }
+}
+```
+
+`get` и `set` не имеют отдельных копий `value`.
+
+Они работают с **одним binding** внутри конкретного вызова `create()`:
+
+```text
+          create LE
+          value
+          ↑   ↑
+         get set
+```
+
+Поэтому:
+
+```js
+const first = create()
+
+first.set(50)
+first.get() // 50
+```
+
+---
+
+### Разные вызовы factory → разные bindings
+
+```js
+const first = create()
+const second = create()
+```
+
+```text
+first  → LE #1 → value₁
+second → LE #2 → value₂
+```
+
+Изменение `first` не влияет на `second`.
+
+---
+
+### Создание closure ≠ вызов closure
+
+```js
+functions[0]()
+functions[0]()
+functions[1]()
+```
+
+Количество строк вызова не означает количество созданных closure.
+
+Например:
+
+```text
+functions[0] → один closure, вызван дважды
+functions[1] → другой closure, вызван один раз
+```
+
+Повторный вызов функции:
+
+```text
+НЕ создаёт новое внешнее Lexical Environment
+↓
+работает с уже сохранённым binding
+```
+
+---
+
+### Closure может продлевать жизнь данных
+
+```js
+function create() {
+  const data = { value: 100 }
+
+  return () => data.value
+}
+
+let a = create()
+let b = a
+
+a = null
+```
+
+`data` всё ещё достижим:
+
+```text
+b
+↓
+function
+↓
+closure
+↓
+create LE
+↓
+data
+```
+
+Только когда исчезнут все ссылки на closure:
+
+```js
+b = null
+```
+
+окружение и связанные данные становятся недостижимыми и **могут быть собраны Garbage Collector**.
+
+GC работает по достижимости, а не по принципу:
+
+```text
+"внешняя функция закончилась → всё удалить"
+```
+
+---
+
+## Финальная модель closures
+
+```text
+Closure
+→ сохраняет доступ к внешнему Lexical Environment
+
+Closure
+→ работает с binding
+→ не со snapshot значения
+
+один factory-вызов
+→ одно окружение
+
+несколько closures одного вызова
+→ могут разделять одни bindings
+
+несколько factory-вызовов
+→ независимые окружения
+
+for (var ...)
+→ один binding
+
+for (let i = ...)
+→ отдельный binding на итерацию
+```

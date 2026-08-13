@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "ПЛАНЫ ИЗУЧЕНИЯ"
             }
-          },
-          {
-            "id": "1460eb0a01449546",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nuxt.js/THEORY/JS/This, call, apply, bind, arrow, regular functions.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "This, call, apply, bind, arrow, regular functions"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nuxt.js/THEORY/JS/This, call, apply, bind, arrow, regular functions.md",
+                "file": "Nuxt.js/THEORY/ПЛАНЫ ИЗУЧЕНИЯ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,15 +184,20 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "1460eb0a01449546",
+  "active": "cdcb2d20073875ff",
   "lastOpenFiles": [
+    "Nuxt.js/THEORY/Замыкания (Closures).md",
+    "Nuxt.js/THEORY/Авторизация.md",
+    "Nuxt.js/THEORY/JS/Functions/📌 Summary.md",
+    "Nuxt.js/THEORY/JS/Functions/Closures + var, let в циклах.md",
+    "Nuxt.js/THEORY/JS/Runtime Fundamentals.md",
+    "Nuxt.js/THEORY/Жизненный цикл компонентов Vue 3 и Nuxt 3.md",
+    "Nuxt.js/THEORY/Прокидывание пропсов (Provide-Inject).md",
+    "Nuxt.js/THEORY/Жизненный цикл приложения.md",
+    "Nuxt.js/THEORY/JS/Functions",
+    "Nuxt.js/THEORY/JS/Functions/This, call, apply, bind, arrow, regular functions.md",
     "GROM-IT SOFT/Пароли.md",
     "Nuxt.js/THEORY/ПЛАНЫ ИЗУЧЕНИЯ.md",
-    "Nuxt.js/THEORY/JS/This, call, apply, bind, arrow, regular functions.md",
-    "Nuxt.js/THEORY/JS/Runtime Fundamentals.md",
-    "Nuxt.js/THEORY/JS/Closures + var, let в циклах.md",
-    "Nuxt.js/THEORY/Жизненный цикл компонентов Vue 3 и Nuxt 3.md",
-    "Nuxt.js/THEORY/Жизненный цикл приложения.md",
     "Nuxt.js/THEORY/Архитектура Fullstack.md",
     "Nuxt.js/Утилиты Nuxt.js (utils).md",
     "Nuxt.js/Редиректы.md",
@@ -214,20 +205,16 @@
     "Nuxt.js/THEORY/JS",
     "Файлы/Pasted image 20260812093319.png",
     "Nuxt.js/THEORY/Теория реактивности.md",
-    "Nuxt.js/THEORY/Прокидывание пропсов (Provide-Inject).md",
     "Nuxt.js/THEORY/Рендеринг.md",
     "Nuxt.js/THEORY/Computed-свойства.md",
     "Nuxt.js/THEORY/Watch и WatchEffect.md",
     "Nuxt.js/THEORY/DevOps.md",
     "Nuxt.js/THEORY/Переменные окружения.md",
     "Nuxt.js/THEORY/Композаблы.md",
-    "Nuxt.js/THEORY/Замыкания (Closures).md",
     "Nuxt.js/THEORY/Архитектура API.md",
     "Nuxt.js/INTERVIEWs/По SSR, CSR, SSG, useFetch, $fetch.md",
     "Nuxt.js/THEORY/Паттерны проектирования/Dependency Injection.md",
     "Nuxt.js/THEORY/Паттерны проектирования/Decorator.md",
-    "Nuxt.js/THEORY/Авторизация.md",
-    "Nuxt.js/THEORY/Принципы проектирования/SOLID.md",
     "Файлы/Pasted image 20260807212233.png",
     "Файлы/Pasted image 20260807211526.png",
     "Файлы/Pasted image 20260807211416.png",
@@ -242,7 +229,6 @@
     "Без названия 2.base",
     "Файлы/Pasted image 20260522145445.png",
     "Nuxt.js/INTERVIEWs",
-    "Nuxt.js/THEORY",
     "Файлы/Pasted image 20260415131916.png",
     "Файлы/Pasted image 20260415130504.png",
     "Файлы/Pasted image 20260415124917.png",
