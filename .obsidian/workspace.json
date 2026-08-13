@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nuxt.js/THEORY/ПЛАНЫ ИЗУЧЕНИЯ.md",
+                "file": "Nuxt.js/THEORY/JS/Prototype Model.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ПЛАНЫ ИЗУЧЕНИЯ"
+              "title": "Prototype Model"
             }
           }
         ],
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nuxt.js/THEORY/ПЛАНЫ ИЗУЧЕНИЯ.md",
+                "file": "Nuxt.js/THEORY/JS/Prototype Model.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -186,18 +186,19 @@
   },
   "active": "cdcb2d20073875ff",
   "lastOpenFiles": [
+    "Nuxt.js/THEORY/JS/Runtime Fundamentals.md",
+    "Nuxt.js/THEORY/JS/Prototype Model.md",
+    "Nuxt.js/THEORY/ПЛАНЫ ИЗУЧЕНИЯ.md",
     "Nuxt.js/THEORY/Замыкания (Closures).md",
     "Nuxt.js/THEORY/Авторизация.md",
     "Nuxt.js/THEORY/JS/Functions/📌 Summary.md",
     "Nuxt.js/THEORY/JS/Functions/Closures + var, let в циклах.md",
-    "Nuxt.js/THEORY/JS/Runtime Fundamentals.md",
     "Nuxt.js/THEORY/Жизненный цикл компонентов Vue 3 и Nuxt 3.md",
     "Nuxt.js/THEORY/Прокидывание пропсов (Provide-Inject).md",
     "Nuxt.js/THEORY/Жизненный цикл приложения.md",
     "Nuxt.js/THEORY/JS/Functions",
     "Nuxt.js/THEORY/JS/Functions/This, call, apply, bind, arrow, regular functions.md",
     "GROM-IT SOFT/Пароли.md",
-    "Nuxt.js/THEORY/ПЛАНЫ ИЗУЧЕНИЯ.md",
     "Nuxt.js/THEORY/Архитектура Fullstack.md",
     "Nuxt.js/Утилиты Nuxt.js (utils).md",
     "Nuxt.js/Редиректы.md",
@@ -214,7 +215,6 @@
     "Nuxt.js/THEORY/Архитектура API.md",
     "Nuxt.js/INTERVIEWs/По SSR, CSR, SSG, useFetch, $fetch.md",
     "Nuxt.js/THEORY/Паттерны проектирования/Dependency Injection.md",
-    "Nuxt.js/THEORY/Паттерны проектирования/Decorator.md",
     "Файлы/Pasted image 20260807212233.png",
     "Файлы/Pasted image 20260807211526.png",
     "Файлы/Pasted image 20260807211416.png",
