@@ -48,18 +48,6 @@
               "icon": "lucide-file",
               "title": "This, call, apply, bind, arrow, regular functions"
             }
-          },
-          {
-            "id": "29677cc92ae74379",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.13.7"
-            }
           }
         ],
         "currentTab": 2
@@ -212,9 +200,11 @@
   },
   "active": "1460eb0a01449546",
   "lastOpenFiles": [
+    "GROM-IT SOFT/Пароли.md",
+    "Nuxt.js/THEORY/ПЛАНЫ ИЗУЧЕНИЯ.md",
+    "Nuxt.js/THEORY/JS/This, call, apply, bind, arrow, regular functions.md",
     "Nuxt.js/THEORY/JS/Runtime Fundamentals.md",
     "Nuxt.js/THEORY/JS/Closures + var, let в циклах.md",
-    "Nuxt.js/THEORY/JS/This, call, apply, bind, arrow, regular functions.md",
     "Nuxt.js/THEORY/Жизненный цикл компонентов Vue 3 и Nuxt 3.md",
     "Nuxt.js/THEORY/Жизненный цикл приложения.md",
     "Nuxt.js/THEORY/Архитектура Fullstack.md",
@@ -223,7 +213,6 @@
     "Nuxt.js/SEO-оптимизация.md",
     "Nuxt.js/THEORY/JS",
     "Файлы/Pasted image 20260812093319.png",
-    "GROM-IT SOFT/Пароли.md",
     "Nuxt.js/THEORY/Теория реактивности.md",
     "Nuxt.js/THEORY/Прокидывание пропсов (Provide-Inject).md",
     "Nuxt.js/THEORY/Рендеринг.md",
@@ -235,7 +224,6 @@
     "Nuxt.js/THEORY/Замыкания (Closures).md",
     "Nuxt.js/THEORY/Архитектура API.md",
     "Nuxt.js/INTERVIEWs/По SSR, CSR, SSG, useFetch, $fetch.md",
-    "Nuxt.js/THEORY/ПЛАНЫ ИЗУЧЕНИЯ.md",
     "Nuxt.js/THEORY/Паттерны проектирования/Dependency Injection.md",
     "Nuxt.js/THEORY/Паттерны проектирования/Decorator.md",
     "Nuxt.js/THEORY/Авторизация.md",
