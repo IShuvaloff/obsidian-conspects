@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nuxt.js/THEORY/TypeScript/💡MASTER SUMMARY.md",
+                "file": "Nuxt.js/THEORY/Принципы проектирования/Frontend Architecture.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "💡MASTER SUMMARY"
+              "title": "Frontend Architecture"
+            }
+          },
+          {
+            "id": "798f16f27834aaf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nuxt.js/Для собеседований/Кейс по Завидово (2-3 мин.).md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Кейс по Завидово (2-3 мин.)"
             }
           }
         ]
@@ -142,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nuxt.js/THEORY/TypeScript/💡MASTER SUMMARY.md",
+                "file": "Nuxt.js/THEORY/Принципы проектирования/Frontend Architecture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,35 +185,36 @@
   },
   "active": "182d7fb15609c84b",
   "lastOpenFiles": [
-    "Nuxt.js/THEORY/Теория реактивности.md",
-    "Nuxt.js/THEORY/Computed-свойства.md",
-    "Nuxt.js/THEORY/Watch и WatchEffect.md",
+    "Файлы/Pasted image 20260818221652.png",
+    "Nuxt.js/THEORY/Принципы проектирования/SOLID.md",
+    "Nuxt.js/THEORY/Принципы проектирования/Frontend Architecture.md",
+    "Nuxt.js/THEORY/ПЛАНЫ ИЗУЧЕНИЯ.md",
+    "Nuxt.js/Для собеседований/Кейс по Завидово (2-3 мин.).md",
+    "Nuxt.js/THEORY/Принципы проектирования/Архитектура Фронтенда.md",
+    "Nuxt.js/THEORY/Принципы проектирования/Frontend_Architecture_Interview_QA_v2.md",
+    "Nuxt.js/Для собеседований/Кейс по Офпрайс (2-3 мин.).md",
+    "Nuxt.js/Для собеседований/СКРИНИНГ.md",
+    "Nuxt.js/Для собеседований/О себе (2-3 мин.).md",
+    "Nuxt.js/Для собеседований/Зарплата.md",
+    "Nuxt.js/INTERVIEWs/По SSR, CSR, SSG, useFetch, $fetch.md",
     "Nuxt.js/THEORY/DevOps.md",
-    "Nuxt.js/THEORY/Рендеринг.md",
-    "Nuxt.js/THEORY/Переменные окружения.md",
+    "Nuxt.js/Для собеседований/Вопросы.md",
+    "Nuxt.js/Для собеседований/Кейс по Габионам (2-3 мин.).md",
+    "Nuxt.js/THEORY/TypeScript/💡MASTER SUMMARY.md",
+    "Nuxt.js/THEORY/Архитектура API.md",
+    "Nuxt.js/THEORY/Архитектура Fullstack.md",
+    "Nuxt.js/THEORY/Жизненный цикл компонентов Vue 3 и Nuxt 3.md",
+    "Nuxt.js/THEORY/Жизненный цикл приложения.md",
     "Nuxt.js/THEORY/Замыкания (Closures).md",
     "Nuxt.js/THEORY/Композаблы.md",
-    "Nuxt.js/THEORY/TypeScript/💡MASTER SUMMARY.md",
-    "Nuxt.js/THEORY/ПЛАНЫ ИЗУЧЕНИЯ.md",
-    "Nuxt.js/THEORY/TypeScript/3. Runtime Safety.md",
-    "Nuxt.js/THEORY/TypeScript/2. Generics And Type Tools.md",
-    "Nuxt.js/THEORY/TypeScript/1. Core.md",
-    "Nuxt.js/THEORY/TypeScript/4. Functions And Modern Syntax.md",
-    "Nuxt.js/THEORY/TypeScript/Summary/FAST.md",
-    "Nuxt.js/THEORY/TypeScript/FAST.md",
+    "Nuxt.js/THEORY/Переменные окружения.md",
+    "Nuxt.js/THEORY/Прокидывание пропсов (Provide-Inject).md",
+    "Nuxt.js/THEORY/Рендеринг.md",
+    "Nuxt.js/THEORY/Теория реактивности.md",
+    "Nuxt.js/Для собеседований",
     "Nuxt.js/THEORY/TypeScript/Summary",
     "Nuxt.js/THEORY/TypeScript/Новая папка",
-    "Nuxt.js/THEORY/TypeScript/5. TS in Vue and Nuxt.md",
-    "Nuxt.js/THEORY/TypeScript/TypeScript_SUMMARY.md",
-    "Nuxt.js/THEORY/JavaScript/3.1. This, call, apply, bind, arrow, regular functions.md",
-    "Nuxt.js/THEORY/JavaScript/3. Functions.md",
-    "Nuxt.js/THEORY/JavaScript/3.2. Closures + var, let в циклах.md",
-    "Nuxt.js/THEORY/TypeScript/README.md",
-    "Nuxt.js/Композаблы Nuxt.js (composables).md",
     "Nuxt.js/THEORY/TypeScript",
-    "Nuxt.js/THEORY/JavaScript/1. Basics.md",
-    "Nuxt.js/THEORY/JavaScript/2. Runtime Fundamentals.md",
-    "Nuxt.js/THEORY/JavaScript/4. Async JavaScript.md",
     "Nuxt.js/THEORY/JS/Functions",
     "Nuxt.js/THEORY/JavaScript",
     "Файлы/Pasted image 20260812093319.png",
@@ -210,7 +225,6 @@
     "Nuxt.js/THEORY/Принципы проектирования",
     "Nuxt.js/THEORY/Паттерны проектирования",
     "Без названия.base",
-    "Nuxt.js/THEORY/TypeScript",
     "Файлы/Pasted image 20260415141857.png",
     "Без названия.canvas",
     "Файлы/Pasted image 20260522145445.png",
