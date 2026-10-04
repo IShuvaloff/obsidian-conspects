@@ -11,7 +11,7 @@ Node.js позволяет использовать команду **`npm`** - �
 5. удаление плагинов из проекта: `npm remove ...`;
 6. запуск проекта `npm run ...` (конкретная сборка указывается в файле `package.json`)
 
-Если требуется работать в нескольких версиях Node.js для различных проектов^[например, для работы [[Nuxt.js/ПОЛЕЗНЫЕ ДАННЫЕ|Nuxt 2]] требуется верия Node.js 14 либо 16], нужно установить ==[менеджер переключения версий](https://github.com/coreybutler/nvm-windows?tab=readme-ov-file#installation--upgrades)== **`nvm`**. Установка и использование:
+Если требуется работать в нескольких версиях Node.js для различных проектов^[например, для работы [[FULLSTACK/ПОЛЕЗНЫЕ ДАННЫЕ|Nuxt 2]] требуется верия Node.js 14 либо 16], нужно установить ==[менеджер переключения версий](https://github.com/coreybutler/nvm-windows?tab=readme-ov-file#installation--upgrades)== **`nvm`**. Установка и использование:
 1. скачать по [ссылке](https://github.com/coreybutler/nvm-windows/releases) exe-версию установочника;
 2. **удалить прежде установленный пакет Node.js**;
 3. использовать [различные команды](https://github.com/coreybutler/nvm-windows/releases) установки/удаления версий Node.js:

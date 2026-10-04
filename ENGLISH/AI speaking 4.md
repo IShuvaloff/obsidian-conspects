@@ -420,114 +420,24 @@ Excellent progress.
 
 Instead of...
 
-❌ interesting
-
-Try:
-
-- fascinating
-- intriguing
-- engaging
-- captivating
-- thought-provoking
-
----
-
-Instead of...
-
-❌ very tired
-
-Try:
-
-- drained
-- exhausted
-- worn out
-
----
-
-Instead of...
-
-❌ very useful
-
-Try:
-
-- incredibly useful
-- valuable
-- helpful
-- practical
-
----
-
-Instead of...
-
-❌ very important
-
-Try:
-
-- essential
-- crucial
-- significant
-
----
-
-Instead of...
-
-❌ I don't understand
-
-Try:
-
-- I got lost.
-- I couldn't follow that.
-- Could you explain that another way?
+|**USUALS**❌|**ANALOGUES**✅|
+|---|---|
+|interesting|<ul style="margin:0"><li>fascinating</li><li>intriguing</li><li>engaging</li><li>captivating</li><li>thought-provoking</li></ul>|
+|very tired|<ul style="margin:0"><li>drained</li><li>exhausted</li><li>worn out</li></ul>|
+|very useful|<ul style="margin:0"><li>incredibly useful</li><li>valuable</li><li>helpful</li><li>practical</li></ul>|
+|very important|<ul style="margin:0"><li>essential</li><li>crucial</li><li>significant</li></ul>|
+|I don't understand|<ul style="margin:0"><li>I got lost.</li><li>I couldn't follow that.</li><li>Could you explain that another way?</li></ul>|
 
 ---
 
 # Native Speaker Upgrade ⭐
 
-Your sentence:
-
-> This theme was very important for me.
-
-Natural English:
-
-> This topic has been important to me for a long time.
-
----
-
-Your sentence:
-
-> It was very interesting.
-
-Natural English:
-
-> It was fascinating.
-
-> It was really engaging.
-
-> It was intriguing.
-
----
-
-Your sentence:
-
-> I cannot understand.
-
-Natural English:
-
-> I got lost.
-
-> I couldn't follow that.
-
----
-
-Your sentence:
-
-> I need time to remember.
-
-Natural English:
-
-> I need time to process it.
-
-> I need to let it sink in.
+|**YOUR SENTENCE**❌|**NATURAL ENGLISH**✅|
+|---|---|
+|This theme was very important for me|This topic has been important to me for a long time.|
+|It was very interesting.|<ul style="margin:0"><li>It was fascinating.</li><li>It was really engaging.</li><li>It was intriguing.</li></ul>|
+|I cannot understand.|<ul style="margin:0"><li>I got lost.</li><li>I couldn't follow that.</li></ul>|
+|I need time to remember.|<ul style="margin:0"><li>I need time to process it.</li><li>I need to let it sink in.</li></ul>|
 
 ---
 

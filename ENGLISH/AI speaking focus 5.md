@@ -305,103 +305,17 @@ Present perfect:
 
 These were some of the most useful expressions from today.
 
-## 1. Catch up
-
-**Meaning:** talk to someone you have not seen for a while and exchange news.
-
-### Example
-
-**We spent a few hours catching up over coffee.**
-
----
-
-## 2. Cover a wide range of topics
-
-Instead of:
-
-**We talked about many different things.**
-
-Say:
-
-**We covered a wide range of topics.**
-
----
-
-## 3. Everything from X to Y
-
-A natural way to describe many different subjects.
-
-### Example
-
-**We covered everything from weddings and family to work and everyday struggles.**
-
----
-
-## 4. The ups and downs
-
-**Meaning:** good and bad experiences.
-
-### Example
-
-**We talked honestly about the ups and downs of long-term relationships.**
-
----
-
-## 5. Put in effort
-
-**Meaning:** actively work on something.
-
-### Example
-
-**Both partners need to put in effort to make a relationship work.**
-
----
-
-## 6. Strain a relationship / marriage
-
-**Meaning:** create pressure or difficulty in a relationship.
-
-### Example
-
-**Long-term problems can really strain a marriage.**
-
----
-
-## 7. The time flew by
-
-**Meaning:** time seemed to pass very quickly.
-
-### Example
-
-**We talked for three hours, but the time just flew by.**
-
----
-
-## 8. End the day on a high note
-
-Instead of:
-
-**Finish today with a big success.**
-
-Say:
-
-**End the day on a high note.**
-
-### Meaning
-
-Finish something in a positive or successful way.
-
----
-
-## 9. Reach / come to an agreement
-
-### Examples
-
-**We reached an agreement.**
-
-**We came to an agreement.**
-
-**We have come to an agreement about how our lessons should work.**
+|<span style="min-width:200px">**PHRASE**</span>|**MEANING**|**EXAMPLES**|
+|---|---|---|
+|==Catch up==|talk to someone you have not seen for a while and exchange news.|*We spent a few hours catching up over coffee.*|
+|==Cover a wide range of topics==||*We covered a wide range of topics.*|
+|==Everything from X to Y==|A natural way to describe many different subjects.|*We covered everything from weddings and family to work and everyday struggles.*|
+|==The ups and downs==|good and bad experiences.|*We talked honestly about the ups and downs of long-term relationships.*|
+|==Put in effort==|actively work on something.|*Both partners need to put in effort to make a relationship work.*|
+|==Strain a relationship / marriage==|create pressure or difficulty in a relationship.|*Long-term problems can really strain a marriage.*|
+|==The time flew by==|time seemed to pass very quickly.|*We talked for three hours, but the time just flew by.*|
+|==End the day on a high note==|Finish something in a positive or successful way.||
+|==Reach / come to an agreement==||<ul style="margin:0"><li>*We reached an agreement.*</li><li>*We came to an agreement.*</li><li>*We have come to an agreement about how our lessons should work.*</li></ul>|
 
 ---
 
@@ -757,59 +671,15 @@ Say it as one rhythmical phrase:
 
 # 14. Vocabulary to Recycle
 
-## productive
-
-A day in which you accomplish useful things.
-
-**I had a very productive day.**
-
----
-
-## engaging
-
-Interesting enough to keep your attention.
-
-**It was an engaging conversation.**
-
----
-
-## fascinating
-
-Extremely interesting.
-
-**We had a fascinating discussion.**
-
----
-
-## emotional
-
-Connected with strong feelings.
-
-**It was quite an emotional conversation.**
-
----
-
-## reflect
-
-Think carefully about something.
-
-**We laughed, reflected, and talked about serious things.**
-
----
-
-## struggle
-
-A difficult situation or experience.
-
-**We talked about everyday struggles.**
-
----
-
-## strain
-
-Pressure that damages or weakens something.
-
-**Stress can strain a relationship.**
+|<span style="min-width:200px">**PHRASE**</span>|**MEANING**|**EXAMPLES**|
+|---|---|---|
+|==productive==|A day in which you accomplish useful things.|*I had a very productive day.*|
+|==engaging==|Interesting enough to keep your attention.|*It was an engaging conversation.*|
+|==fascinating==|Extremely interesting.|*We had a fascinating discussion.*|
+|==emotional==|Connected with strong feelings.|*It was quite an emotional conversation.*|
+|==reflect==|Think carefully about something.|*We laughed, reflected, and talked about serious things.*|
+|==struggle==|A difficult situation or experience.|*We talked about everyday struggles.*|
+|==strain==|Pressure that damages or weakens something.|*Stress can strain a relationship.*|
 
 ---
 

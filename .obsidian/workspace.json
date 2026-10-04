@@ -4,95 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "16e370f29a8a2894",
+        "id": "8e162ab697d7174e",
         "type": "tabs",
         "children": [
           {
-            "id": "bcc83910d7af8caa",
+            "id": "237b381f2066ce13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nuxt.js/Для собеседований/СКРИНИНГ.md",
+                "file": "FULLSTACK/THEORY/ПЛАНЫ ИЗУЧЕНИЯ.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "СКРИНИНГ"
-            }
-          },
-          {
-            "id": "4b98ca25a86e6d1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nuxt.js/Для собеседований/Кейс по Габионам (2-3 мин.).md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Кейс по Габионам (2-3 мин.)"
-            }
-          },
-          {
-            "id": "798f16f27834aaf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nuxt.js/Для собеседований/Кейс по Завидово (2-3 мин.).md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Кейс по Завидово (2-3 мин.)"
-            }
-          },
-          {
-            "id": "22c927232db44ec6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nuxt.js/Для собеседований/Вопросы.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Вопросы"
-            }
-          },
-          {
-            "id": "bce15ed382d873a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nuxt.js/Для собеседований/О себе (2-3 мин.).md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "О себе (2-3 мин.)"
-            }
-          },
-          {
-            "id": "d4bb148bc5bccd93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ENGLISH/AI speaking focus 1.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "AI speaking focus 1"
+              "title": "ПЛАНЫ ИЗУЧЕНИЯ"
             }
           }
         ],
-        "currentTab": 5
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -126,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "typeof",
+                "query": "noindex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +72,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Закладки"
             }
@@ -213,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nuxt.js/Для собеседований/Зарплата.md",
+                "file": "FULLSTACK/THEORY/ПЛАНЫ ИЗУЧЕНИЯ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -227,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 294.2999267578125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,54 +173,54 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "d4bb148bc5bccd93",
+  "active": "237b381f2066ce13",
   "lastOpenFiles": [
-    "Nuxt.js/Для собеседований/О себе (2-3 мин.).md",
-    "Nuxt.js/Для собеседований/СКРИНИНГ.md",
-    "Nuxt.js/Для собеседований/Вопросы.md",
-    "Nuxt.js/Для собеседований/Зарплата.md",
-    "Nuxt.js/THEORY/Docker/Установка Docker.md",
-    "Nuxt.js/THEORY/Docker",
-    "Nuxt.js/Для собеседований/Кейс по Габионам (2-3 мин.).md",
-    "Nuxt.js/Для собеседований/Кейс по Завидово (2-3 мин.).md",
-    "Nuxt.js/Для собеседований/BEGET - Интернет-хостинг.md",
-    "Nuxt.js/Для собеседований/Кейс по Офпрайс (2-3 мин.).md",
-    "Nuxt.js/INTERVIEWs/По SSR, CSR, SSG, useFetch, $fetch.md",
-    "Nuxt.js/THEORY/Принципы проектирования/Frontend Architecture.md",
+    "FULLSTACK/THEORY/ИНСТРУКЦИЯ ДЛЯ AI-НАСТАВНИКА.md",
+    "FULLSTACK/THEORY/DevOps.md",
+    "FULLSTACK/THEORY/ПЛАНЫ ИЗУЧЕНИЯ.md",
+    "FULLSTACK/THEORY/Паттерны проектирования/Dependency Injection.md",
+    "FULLSTACK/THEORY/Nuxt.js/Авторизация.md",
+    "FULLSTACK/THEORY/Nuxt.js/Переменные окружения.md",
+    "FULLSTACK/THEORY/Nuxt.js/Архитектура API.md",
+    "FULLSTACK/THEORY/Nuxt.js/Теория реактивности.md",
+    "FULLSTACK/THEORY/TypeScript/5. TS in Vue and Nuxt.md",
+    "FULLSTACK/THEORY/TypeScript/1. Core.md",
+    "FULLSTACK/THEORY/JavaScript/3. Functions.md",
+    "FULLSTACK/THEORY/JavaScript/5. Prototype Model.md",
+    "FULLSTACK/THEORY/JavaScript/4. Async JavaScript.md",
+    "FULLSTACK/THEORY/Паттерны проектирования/Decorator.md",
+    "FULLSTACK/THEORY/Nuxt.js/Замыкания (Closures).md",
+    "Vue & Nuxt - Документация/API/Глобальные переменные.md",
+    "Vue & Nuxt - Документация/Основное/Директивы и атрибуты Vue.md",
+    "Vue & Nuxt - Документация/Основное/Вычисляемые (computed) свойства.md",
+    "Vue & Nuxt - Документация/Лайфхаки/Отладчик (debugger).md",
+    "FULLSTACK/Режим SSR (серверный рендеринг).md",
+    "FULLSTACK/Для собеседований/СКРИНИНГ.md",
+    "FULLSTACK/Для собеседований/Зарплата.md",
+    "FULLSTACK/Для собеседований/Вопросы.md",
+    "FULLSTACK/Для собеседований/❌ BEGET - Интернет-хостинг.md",
+    "FULLSTACK/Вопросы - Ответы/Senior_Frontend_Architecture_Discovery_Checklist_v2.md",
+    "FULLSTACK/Вопросы - Ответы/По Frontend-Backend взаимодействию.md",
+    "Без названия.base",
+    "FULLSTACK/THEORY/Nuxt.js",
+    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)",
+    "Файлы/Pasted image 20260901103337.png",
+    "Файлы/Pasted image 20260901103311.png",
+    "Файлы/Pasted image 20260901103133.png",
+    "FULLSTACK/THEORY/Docker",
     "Файлы/Pasted image 20260818221652.png",
-    "Nuxt.js/THEORY/Принципы проектирования/SOLID.md",
-    "Nuxt.js/THEORY/ПЛАНЫ ИЗУЧЕНИЯ.md",
-    "Nuxt.js/THEORY/Принципы проектирования/Архитектура Фронтенда.md",
-    "Nuxt.js/THEORY/Принципы проектирования/Frontend_Architecture_Interview_QA_v2.md",
-    "Nuxt.js/THEORY/DevOps.md",
-    "Nuxt.js/THEORY/TypeScript/💡MASTER SUMMARY.md",
-    "Nuxt.js/THEORY/Архитектура API.md",
-    "Nuxt.js/THEORY/Архитектура Fullstack.md",
-    "Nuxt.js/THEORY/Жизненный цикл компонентов Vue 3 и Nuxt 3.md",
-    "Nuxt.js/THEORY/Жизненный цикл приложения.md",
-    "Nuxt.js/THEORY/Замыкания (Closures).md",
-    "Nuxt.js/THEORY/Композаблы.md",
-    "Nuxt.js/THEORY/Переменные окружения.md",
-    "Nuxt.js/THEORY/Прокидывание пропсов (Provide-Inject).md",
-    "Nuxt.js/THEORY/Рендеринг.md",
-    "Nuxt.js/Для собеседований",
+    "FULLSTACK/Для собеседований",
     "Nuxt.js/THEORY/TypeScript/Summary",
     "Nuxt.js/THEORY/TypeScript/Новая папка",
-    "Nuxt.js/THEORY/TypeScript",
+    "FULLSTACK/THEORY/TypeScript",
     "Nuxt.js/THEORY/JS/Functions",
-    "Nuxt.js/THEORY/JavaScript",
+    "FULLSTACK/THEORY/JavaScript",
     "Файлы/Pasted image 20260812093319.png",
     "Файлы/Pasted image 20260807212233.png",
     "Файлы/Pasted image 20260807211526.png",
     "Файлы/Pasted image 20260807211416.png",
-    "ENGLISH",
-    "Nuxt.js/THEORY/Принципы проектирования",
-    "Nuxt.js/THEORY/Паттерны проектирования",
     "Файлы/Pasted image 20260415141857.png",
     "Без названия.canvas",
-    "Файлы/Pasted image 20260522145445.png",
-    "Файлы/Pasted image 20260415131916.png",
-    "Файлы/Pasted image 20260415130504.png",
-    "Файлы/Pasted image 20260415124917.png"
+    "Файлы/Pasted image 20260522145445.png"
   ]
 }

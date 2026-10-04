@@ -602,20 +602,20 @@ type Status =
   | 'success'
   | 'error'
 
-switch (status) {
-  case 'loading':
-    break
-  case 'success':
-    break
-  case 'error':
-    break
-  default: {
-    const exhaustive: never = status
-  }
+// пример, любой: здесь - функция описания сообщения
+function getMessage(result: Result): string { 
+	switch (result.status) { 
+		case 'loading': return 'Загрузка...' 
+		case 'success': return `Найдено пользователей: ${result.data.length}` 
+		case 'error': return `Ошибка: ${result.error}` 
+		default: { 
+			const exhaustive: never = result return exhaustive 
+		} 
+	} 
 }
 ```
 
-Если добавить `'cancelled'` и забыть `case`, TypeScript не позволит присвоить `'cancelled'` в `never`.
+Если добавить `'cancelled'` и забыть `case`, TypeScript не позволит присвоить `'cancelled'` в `never` и в момент компиляции выдаст ошибку compile-time error.
 
 ---
 

@@ -51,48 +51,49 @@ const emit = defineEmits(['update:modelValue']);
 Привязывание переменной к какому-либо атрибуту в теге для передачи ему динамического значения. Варианты использования:
 1. с использованием `v-bind`:
    
-   ```html
-   <div v-bind:id="dynamicId"></div>
-	```   
+```html
+<div v-bind:id="dynamicId"></div>
+```   
    
 2. через сокращенную запись `:`:
    
-   ```html
-   <div :id="dynamicId"></div>
-	```
+```html
+<div :id="dynamicId"></div>
+```
    
 3. через одноименное сокращение (в случае, если переменная называется не `dynamicId`, а `id`):
    
-   ```html
-   <div :id></div> 
-   <div v-bind:id></div>
-	```
+```html
+<div :id></div> 
+<div v-bind:id></div>
+```
    
 4. булевы атрибуты (данный атрибут присваивается html-элементу только в случае, если значение - либо пустая строка `''`, либо `false`):
    
-   ```html
-   <button :disabled="isButtonDisabled">Кнопка</button>
-	```
+```html
+<button :disabled="isButtonDisabled">Кнопка</button>
+```
    
 5. динамическая привязка сразу нескольких атрибутов через `v-bind` без уточнения имени:
    
-   ```ts
-   const objectOfAttrs = { 
-	   id: 'container', 
-	   class: 'wrapper', 
-	   style: 'background-color:green',
-	}
-	```
-	```html
-	<div v-bind="objectOfAttrs"></div>
-	```
+```ts
+const objectOfAttrs = { 
+   id: 'container', 
+   class: 'wrapper', 
+   style: 'background-color:green',
+}
+```
+
+```html
+<div v-bind="objectOfAttrs"></div>
+```
 
 6. подвязка динамического атрибута - можно определить значение атрибута в переменную `attributeName`^[можно использовать только готовое имя для подстановки в html; выражения внутри квадратных скобок в html не допускаются!] и использовать ее в html-коде (актуально для тегов `<nuxt-link :to="">` и `<a :href="">`)^[Ожидается использование string в качестве значения переменной. Если значение переменной null, то это заменяет собой явное отключение/удаление/отсутствие атрибута]:
    
-   ```html
-	   <a v-bind:[attributeName]="url"> ... </a>
-	   <a :[attributeName]="url"> ... </a>
-	```
+```html
+   <a v-bind:[attributeName]="url"> ... </a>
+   <a :[attributeName]="url"> ... </a>
+```
 
 Особенности проброса внутрь **id**, **class** и **style**:
 1. от родителя к внутреннему тегу ==автоматически прокидываются== как минимум 3 атрибута: **class**, **style** и **id**, но только в случае одного элемента в шаблоне компонента;

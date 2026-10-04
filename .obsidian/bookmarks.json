@@ -3,21 +3,21 @@
     {
       "type": "file",
       "ctime": 1699186501235,
-      "path": "Nuxt.js/ПОЛЕЗНЫЕ ДАННЫЕ.md",
+      "path": "FULLSTACK/ПОЛЕЗНЫЕ ДАННЫЕ.md",
       "subpath": "#^6c6567",
       "title": "Алиасы Nuxt.js"
     },
     {
       "type": "file",
       "ctime": 1699276590931,
-      "path": "Nuxt.js/Конфигурация проекта.md",
+      "path": "FULLSTACK/Конфигурация проекта.md",
       "subpath": "#^0b9bbb",
       "title": "Серверный/статический рендеринг"
     },
     {
       "type": "file",
       "ctime": 1699719817654,
-      "path": "Nuxt.js/Конфигурация проекта.md",
+      "path": "FULLSTACK/Конфигурация проекта.md",
       "subpath": "#Файлы настроек проекта"
     },
     {
@@ -30,26 +30,58 @@
     {
       "type": "file",
       "ctime": 1700250456451,
-      "path": "Nuxt.js/Композаблы Nuxt.js (composables).md",
+      "path": "FULLSTACK/Композаблы Nuxt.js (composables).md",
       "subpath": "#^0704a2"
     },
     {
       "type": "file",
       "ctime": 1716573995755,
-      "path": "Nuxt.js/Промежуточное ПО (middleware) TODO!.md",
+      "path": "FULLSTACK/Промежуточное ПО (middleware) TODO!.md",
       "subpath": "#Сохранение позиций Y на странице и плавный переход к ним при маршрутизации"
     },
     {
       "type": "file",
       "ctime": 1770650696820,
-      "path": "PHP/Laravel/9. Моделирование.md",
+      "path": "FULLSTACK/THEORY/Laravel/9. Моделирование.md",
       "subpath": "#Общее устройство и модели"
     },
     {
       "type": "file",
       "ctime": 1776248108849,
-      "path": "Nuxt.js/THEORY/Архитектура API.md",
+      "path": "FULLSTACK/THEORY/Nuxt.js/Архитектура API.md",
       "subpath": "#Плагин для создания"
+    },
+    {
+      "type": "group",
+      "ctime": 1788596364568,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1788596350754,
+          "path": "FULLSTACK/Для собеседований/СКРИНИНГ.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1788596350754,
+          "path": "FULLSTACK/Для собеседований/Кейс по Габионам (2-3 мин.).md"
+        },
+        {
+          "type": "file",
+          "ctime": 1788596350754,
+          "path": "FULLSTACK/Для собеседований/Кейс по Завидово (2-3 мин.).md"
+        },
+        {
+          "type": "file",
+          "ctime": 1788596350754,
+          "path": "FULLSTACK/Для собеседований/Вопросы.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1788596350754,
+          "path": "FULLSTACK/Для собеседований/О себе (2-3 мин.).md"
+        }
+      ],
+      "title": "К собеседованиям"
     }
   ]
 }
