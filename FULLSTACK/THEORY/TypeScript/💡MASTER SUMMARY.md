@@ -707,6 +707,8 @@ const emit = defineEmits<{
 const model = defineModel<string>()
 ```
 
+Без `required: true` или default это `Ref<string | undefined>`: родитель может не передать `v-model`. Для обязательной модели: `defineModel<string>({ required: true })`.
+
 Заменяет ручной `modelValue + update:modelValue`.
 
 Несколько моделей:
@@ -864,7 +866,7 @@ defineProps<{
   items: T[]
 }>()
 
-const selected = defineModel<T | null>()
+const selected = defineModel<T | null>({ required: true })
 
 defineSlots<{
   item(props: {
@@ -1602,7 +1604,7 @@ defineProps<{
   items: T[]
 }>()
 
-const selected = defineModel<T | null>()
+const selected = defineModel<T | null>({ required: true })
 
 defineSlots<{
   item(props: {
