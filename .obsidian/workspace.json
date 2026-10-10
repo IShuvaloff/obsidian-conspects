@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/4. PostgreSQL и миграции.md",
-                "mode": "source",
+                "file": "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/5. Миграции.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "4. PostgreSQL и миграции"
+              "title": "5. Миграции"
             }
           }
         ],
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/4. PostgreSQL и миграции.md",
+                "file": "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/5. Миграции.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -175,7 +175,11 @@
   },
   "active": "237b381f2066ce13",
   "lastOpenFiles": [
+    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/3. Сервисы и фасады.md",
     "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/2. PHP Base.md",
+    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/0. Общая конструкция.md",
+    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/1. Жизненный цикл.md",
+    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/5. Миграции.md",
     "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/4. PostgreSQL и миграции.md",
     "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/4. PostgreSQL - .md",
     "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/4. PostgreSQL - основы, разворачивание и подключение Laravel.md",
@@ -186,7 +190,6 @@
     "FULLSTACK/THEORY/Laravel/6. Флэш-сообщения.md",
     "FULLSTACK/THEORY/Laravel/8. Контроллеры.md",
     "FULLSTACK/THEORY/Laravel/7. Миддлвары.md",
-    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/3. Сервисы и фасады.md",
     "FULLSTACK/THEORY/Laravel/3. Сервисы и фасады (old).md",
     "FULLSTACK/THEORY/Laravel/2. Архитектура проекта.md",
     "FULLSTACK/THEORY/Laravel/Функции-хэлперы.md",
@@ -198,9 +201,6 @@
     "FULLSTACK/THEORY/ИНСТРУКЦИЯ ДЛЯ AI-НАСТАВНИКА.md",
     "FULLSTACK/THEORY/Docker/Deploy Tutorial.md",
     "Vue & Nuxt - Документация/API/Глобальные переменные.md",
-    "FULLSTACK/THEORY/DevOps.md",
-    "FULLSTACK/THEORY/Паттерны проектирования/Dependency Injection.md",
-    "FULLSTACK/THEORY/Nuxt.js/Авторизация.md",
     "Без названия.base",
     "FULLSTACK/THEORY/Nuxt.js",
     "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)",
