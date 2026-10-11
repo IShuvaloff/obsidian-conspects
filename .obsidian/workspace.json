@@ -80,7 +80,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,7 +174,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "237b381f2066ce13",
+  "active": "6e94aec35ba1eded",
   "lastOpenFiles": [
     "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/3. Сервисы и фасады.md",
     "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/2. PHP Base.md",
