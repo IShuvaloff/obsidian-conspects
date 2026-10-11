@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/5. Миграции.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "php artisan make",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,19 +174,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6e94aec35ba1eded",
+  "active": "237b381f2066ce13",
   "lastOpenFiles": [
+    "FULLSTACK/THEORY/Laravel/4. Маршрутизация.md",
     "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/3. Сервисы и фасады.md",
+    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/5. Миграции.md",
     "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/2. PHP Base.md",
     "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/0. Общая конструкция.md",
     "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/1. Жизненный цикл.md",
-    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/5. Миграции.md",
     "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/4. PostgreSQL и миграции.md",
     "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/4. PostgreSQL - .md",
     "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/4. PostgreSQL - основы, разворачивание и подключение Laravel.md",
     "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/PostgreSQL - основы, разворачивание и подключение Laravel.md",
     "FULLSTACK/THEORY/Laravel/Функции приложения Application.md",
-    "FULLSTACK/THEORY/Laravel/4. Маршрутизация.md",
     "FULLSTACK/THEORY/Laravel/9. Моделирование.md",
     "FULLSTACK/THEORY/Laravel/6. Флэш-сообщения.md",
     "FULLSTACK/THEORY/Laravel/8. Контроллеры.md",
