@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/7. HTTP flow, Services и Authorization.md",
-                "mode": "preview",
+                "file": "FULLSTACK/THEORY/Laravel/СПРАВОЧНИК - Laravel и Eloquent.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "7. HTTP flow, Services и Authorization"
+              "title": "СПРАВОЧНИК - Laravel и Eloquent"
             }
           }
         ],
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/7. HTTP flow, Services и Authorization.md",
+                "file": "FULLSTACK/THEORY/Laravel/СПРАВОЧНИК - Laravel и Eloquent.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -175,18 +175,24 @@
   },
   "active": "237b381f2066ce13",
   "lastOpenFiles": [
-    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/ПЛАН ОБУЧЕНИЯ.md",
-    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/4. PostgreSQL и миграции.md",
-    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/1. Жизненный цикл.md",
-    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/7. HTTP flow, Services и Authorization.md",
-    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/0. Общая конструкция.md",
-    "FULLSTACK/THEORY/Laravel/4. Маршрутизация.md",
-    "FULLSTACK/THEORY/Laravel/Функции-хэлперы.md",
-    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/3. Сервисы и фасады.md",
-    "FULLSTACK/THEORY/Laravel/Лайфхаки фреймворка.md",
-    "FULLSTACK/THEORY/Laravel/Функции приложения Application.md",
+    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/8. Factories и Seeders.md",
+    "FULLSTACK/THEORY/00. Карта знаний THEORY.md",
+    "FULLSTACK/THEORY/Laravel/СПРАВОЧНИК - Laravel и Eloquent.md",
+    "FULLSTACK/THEORY/Laravel/7. Миддлвары.md",
     "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/6. Eloquent Models и Relations.md",
     "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/5. Миграции.md",
+    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/4. PostgreSQL и миграции.md",
+    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/3. Сервисы и фасады.md",
+    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/1. Жизненный цикл.md",
+    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/0. Общая конструкция.md",
+    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/ПЛАН ОБУЧЕНИЯ.md",
+    "FULLSTACK/THEORY/Laravel/Установка Sanctum.md",
+    "FULLSTACK/THEORY/ПЛАНЫ ИЗУЧЕНИЯ.md",
+    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/7. HTTP flow, Services и Authorization.md",
+    "FULLSTACK/THEORY/Laravel/4. Маршрутизация.md",
+    "FULLSTACK/THEORY/Laravel/Функции-хэлперы.md",
+    "FULLSTACK/THEORY/Laravel/Лайфхаки фреймворка.md",
+    "FULLSTACK/THEORY/Laravel/Функции приложения Application.md",
     "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/2. PHP Base.md",
     "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/4. PostgreSQL - .md",
     "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/4. PostgreSQL - основы, разворачивание и подключение Laravel.md",
@@ -194,13 +200,7 @@
     "FULLSTACK/THEORY/Laravel/9. Моделирование.md",
     "FULLSTACK/THEORY/Laravel/6. Флэш-сообщения.md",
     "FULLSTACK/THEORY/Laravel/8. Контроллеры.md",
-    "FULLSTACK/THEORY/Laravel/7. Миддлвары.md",
     "FULLSTACK/THEORY/Laravel/3. Сервисы и фасады (old).md",
-    "FULLSTACK/THEORY/Laravel/2. Архитектура проекта.md",
-    "FULLSTACK/THEORY/Laravel/3. Сервисы и фасады.md",
-    "FULLSTACK/THEORY/ПЛАНЫ ИЗУЧЕНИЯ.md",
-    "FULLSTACK/THEORY/00. Карта знаний THEORY.md",
-    "FULLSTACK/THEORY/Nuxt.js/Storybook - тестирование.md",
     "Без названия.base",
     "FULLSTACK/THEORY/Nuxt.js",
     "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)",
