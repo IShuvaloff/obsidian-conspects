@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FULLSTACK/THEORY/Laravel/6. Флэш-сообщения.md",
+                "file": "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/ПЛАН ОБУЧЕНИЯ.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "6. Флэш-сообщения"
+              "title": "ПЛАН ОБУЧЕНИЯ"
             }
           }
         ],
@@ -43,7 +43,7 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "php artisan make",
+                "query": "wayfinder",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FULLSTACK/THEORY/Laravel/6. Флэш-сообщения.md",
+                "file": "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/ПЛАН ОБУЧЕНИЯ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -173,12 +173,23 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "273c6e73e09da73d",
+  "active": "5a0b3445a3af5ed1",
   "lastOpenFiles": [
     "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/10. Inertia mutations, useHttp и Optimistic UI.md",
+    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/6. Eloquent Models и Relations.md",
+    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/ПЛАН ОБУЧЕНИЯ.md",
+    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/7. HTTP flow, Services и Authorization.md",
     "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/9. Read-side в Laravel + Inertia — фильтры, query params и pagination.md",
-    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/0. Общая конструкция.md",
+    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/8. Factories и Seeders.md",
     "FULLSTACK/THEORY/Laravel/СПРАВОЧНИК - Laravel и Eloquent.md",
+    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/1. Жизненный цикл.md",
+    "FULLSTACK/THEORY/Laravel/7. Миддлвары.md",
+    "FULLSTACK/THEORY/Laravel/4. Маршрутизация.md",
+    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/5. Миграции.md",
+    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/4. PostgreSQL и миграции.md",
+    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/3. Сервисы и фасады.md",
+    "FULLSTACK/THEORY/Laravel/6. Флэш-сообщения.md",
+    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/0. Общая конструкция.md",
     "FULLSTACK/THEORY/Nuxt.js/Жизненный цикл компонентов Vue 3 и Nuxt 3.md",
     "FULLSTACK/THEORY/Nuxt.js/Жизненный цикл приложения.md",
     "FULLSTACK/THEORY/Nuxt.js/Переменные окружения.md",
@@ -187,20 +198,9 @@
     "FULLSTACK/THEORY/Nuxt.js/Авторизация.md",
     "FULLSTACK/THEORY/JavaScript/1. Basics.md",
     "FULLSTACK/Для собеседований/О себе (2-3 мин.).md",
-    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/8. Factories и Seeders.md",
     "FULLSTACK/THEORY/00. Карта знаний THEORY.md",
-    "FULLSTACK/THEORY/Laravel/7. Миддлвары.md",
-    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/6. Eloquent Models и Relations.md",
-    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/5. Миграции.md",
-    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/4. PostgreSQL и миграции.md",
-    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/3. Сервисы и фасады.md",
-    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/1. Жизненный цикл.md",
-    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/ПЛАН ОБУЧЕНИЯ.md",
     "FULLSTACK/THEORY/Laravel/Установка Sanctum.md",
     "FULLSTACK/THEORY/ПЛАНЫ ИЗУЧЕНИЯ.md",
-    "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)/7. HTTP flow, Services и Authorization.md",
-    "FULLSTACK/THEORY/Laravel/4. Маршрутизация.md",
-    "FULLSTACK/THEORY/Laravel/Функции-хэлперы.md",
     "Без названия.base",
     "FULLSTACK/THEORY/Nuxt.js",
     "FULLSTACK/THEORY/Laravel/УРОКИ (изучая HelpMeIn)",

@@ -3,5 +3,6 @@
   "theme": "system",
   "baseFontSize": 16,
   "cssTheme": "AnuPpuccin",
-  "translucency": false
+  "translucency": false,
+  "showRibbon": true
 }
